@@ -7,7 +7,7 @@
     2.  gcc
  
 * The following command can be used to generate the output file.  ``` gcc -fopenmp FILENAME.c -o FILENAME.o ```
-* The output file needs 3 input parameters to run
+* The output file needs 1 input parameter to run
     1. No of threads required to execute the code
 * The following command can be run to execute the object file ``` ./FILENAME.o <no. of threads> ```.
 * Finally the result will be the time taken for the execution of the merge sort algorithm over the array.
