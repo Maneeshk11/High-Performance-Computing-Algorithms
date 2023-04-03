@@ -7,4 +7,5 @@
     1. Size/order of the matrix
     2. No of threads required to execute the code
     3. The power of the matrix.
-* ``` ./FILENAME.o <matrix-order> <no. of threads> <power of matrix>
+* The following command can be run to execute the object file ``` ./FILENAME.o <matrix-order> <no. of threads> <power of matrix> ```.
+* Finally the result will be the time taken for the execution of the multiplication of the matrix.
