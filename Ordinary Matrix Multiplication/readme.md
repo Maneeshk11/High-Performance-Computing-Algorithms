@@ -3,8 +3,8 @@
 - Follow the following steps to excecute the C file.
 
 - Requirements to run the file
- * Openmp
- * gcc
+ 1. Openmp
+ 2. gcc
  
 * The following command can be used to generate the output file.  ``` gcc -fopenmp FILENAME.c -o FILENAME.o ```
 * The output file needs 3 input parameters to run
